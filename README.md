@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/shaojintian/Best_README_template/">
-    <img src="readme_img/readme.jpg" alt="Logo" width="80" height="80">
+    <img src="readme_img/1.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">剧本杀“折花”</h3>
@@ -149,7 +149,7 @@ filetree
 [stars-url]: https://github.com/Clevermis/Folding_flower/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Clevermis/Folding_flower.svg?style=flat-square
 [issues-url]: https://img.shields.io/github/issues/Clevermis/Folding_flower.svg
-[license-shield]: https://img.shields.io/github/license/shaojintian/Best_README_template.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/Clevermis/Folding_flower.svg?style=flat-square
 [license-url]: https://github.com/Clevermis/Folding_flower/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/Clevermis
