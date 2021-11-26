@@ -149,7 +149,7 @@ filetree
 [stars-url]: https://github.com/Clevermis/Folding_flower/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Clevermis/Folding_flower.svg?style=flat-square
 [issues-url]: https://img.shields.io/github/issues/Clevermis/Folding_flower.svg
-[license-shield]: https://img.shields.io/github/license/shaojintian/Best_README_template.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/Clevermis/Folding_flower.svg?style=flat-square
 [license-url]: https://github.com/Clevermis/Folding_flower/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/Clevermis
