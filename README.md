@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/shaojintian/Best_README_template/">
-    <img src="readme_img/readme.jpg" alt="Logo" width="80" height="80">
+    <img src="readme_img/1.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">剧本杀“折花”</h3>
