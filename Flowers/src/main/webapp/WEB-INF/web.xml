@@ -11,4 +11,15 @@
         <filter-name>CharacterEncodingfilter</filter-name>
         <url-pattern>/*</url-pattern>
     </filter-mapping>
+    <welcome-file-list>
+        <welcome-file>login.jsp</welcome-file>
+    </welcome-file-list>
+    <servlet>
+        <servlet-name>imageServlet</servlet-name>
+        <servlet-class>com.clevermis.util.ImageServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>imageServlet</servlet-name>
+        <url-pattern>/hello</url-pattern>
+    </servlet-mapping>
 </web-app>
