@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Flowers/Flowers.iml" filepath="$PROJECT_DIR$/Flowers/Flowers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/readme_img/readme_img.iml" filepath="$PROJECT_DIR$/readme_img/readme_img.iml" />
+      <module fileurl="file://$PROJECT_DIR$/前端前期准备文件/前端前期准备文件.iml" filepath="$PROJECT_DIR$/前端前期准备文件/前端前期准备文件.iml" />
+      <module fileurl="file://$PROJECT_DIR$/数据库前期准备/数据库前期准备.iml" filepath="$PROJECT_DIR$/数据库前期准备/数据库前期准备.iml" />
+    </modules>
+  </component>
+</project>

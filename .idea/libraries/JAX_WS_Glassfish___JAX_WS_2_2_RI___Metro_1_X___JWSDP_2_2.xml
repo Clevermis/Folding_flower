@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="JAX-WS-Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2" type="JAX-WS">
+    <properties version="Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Flowers/lib/gmbal-api-only.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Flowers/lib/jaxws-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Flowers/lib/jaxb-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Flowers/lib/javax.annotation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Flowers/lib/ha-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Flowers/lib/mimepull.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Flowers/lib/jaxb-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Flowers/lib/policy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Flowers/lib/management-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Flowers/lib/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Flowers/lib/jsr181-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Flowers/lib/saaj-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Flowers/lib/FastInoset.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Flowers/lib/saaj-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Flowers/lib/jaxb-xjc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Flowers/lib/stax2-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Flowers/lib/stax-ex.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Flowers/lib/streambuffer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Flowers/lib/jaxws-tools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Flowers/lib/jaxws-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Flowers/lib/woodstox-core-asl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
