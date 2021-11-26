@@ -1,7 +1,6 @@
 # Folding_flower
 
 
-ProjectName and Description
 
 <!-- PROJECT SHIELDS -->
 
@@ -44,7 +43,6 @@ ProjectName and Description
   - [开发前的配置要求](#开发前的配置要求)
   - [安装步骤](#安装步骤)
 - [文件目录说明](#文件目录说明)
-- [开发的架构](#开发的架构)
 - [部署](#部署)
 - [使用到的框架](#使用到的框架)
 - [贡献者](#贡献者)
@@ -52,7 +50,7 @@ ProjectName and Description
 - [版本控制](#版本控制)
 - [作者](#作者)
 
-
+### 上手指南
 
 ###### 开发前的配置要求
 
@@ -73,7 +71,6 @@ git clone https://github.com/Clevermis/Folding_flower.git
 ```
 
 ### 文件目录说明
-eg:
 
 ```
 filetree 
@@ -99,9 +96,6 @@ filetree
 
 
 
-### 开发的架构 
-
-暂无
 
 ### 部署
 
@@ -110,8 +104,8 @@ filetree
 ### 使用到的框架
 
 - [Spring](https://spring.io/)
-- [springMvc](https://spring.io/projects/spring-framework)
-- [mybatis](https://mybatis.org/mybatis-3/)
+- [SpringMvc](https://spring.io/projects/spring-framework)
+- [Mybatis](https://mybatis.org/mybatis-3/)
 - [Vue](https://cn.vuejs.org/index.html)
 
 ### 贡献者
