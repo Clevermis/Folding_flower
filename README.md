@@ -9,7 +9,7 @@ ProjectName and Description
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![GNU License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
@@ -17,7 +17,7 @@ ProjectName and Description
 
 <p align="center">
   <a href="https://github.com/shaojintian/Best_README_template/">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="readme_img/readme.jpg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">剧本杀“折花”</h3>
@@ -51,14 +51,18 @@ ProjectName and Description
   - [如何参与开源项目](#如何参与开源项目)
 - [版本控制](#版本控制)
 - [作者](#作者)
-- [鸣谢](#鸣谢)
 
 
 
 ###### 开发前的配置要求
 
-1. xxxxx x.x.x
-2. xxxxx x.x.x
+1. jdk 8.0
+2. tomact 9.0.20
+3. maven 3.6.3
+4. mysql 5.6
+5. vue 2.9.6
+6. intellij idea 2020.1.1
+7. node 16.13.0
 
 ###### **安装步骤**
 
@@ -133,10 +137,7 @@ filetree
 
 ### 作者
 
-Clevermis 
-Zhuangshi
-Tianhao
-Abo
+#### Clevermis    Zhuangshi    Tianhao     Abo
 
 
 
@@ -144,6 +145,19 @@ Abo
 
 该项目签署了GNU 授权许可，详情请参阅 [LICENSE.txt](https://github.com/Clevermis/Folding_flower/blob/master/LICENSE.MD)
 
-
+<!-- links -->
+[your-project-path]:Clevermis/Folding_flower
+[contributors-shield]: https://img.shields.io/github/contributors/Clevermis/Folding_flower.svg?style=flat-square
+[contributors-url]: https://github.com/Clevermis/Folding_flower/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Clevermis/Folding_flower.svg?style=flat-square
+[forks-url]: https://github.com/Clevermis/Folding_flower/network/members
+[stars-shield]: https://img.shields.io/github/stars/Clevermis/Folding_flower.svg?style=flat-square
+[stars-url]: https://github.com/Clevermis/Folding_flower/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Clevermis/Folding_flower.svg?style=flat-square
+[issues-url]: https://img.shields.io/github/issues/Clevermis/Folding_flower.svg
+[license-shield]: https://img.shields.io/github/license/shaojintian/Best_README_template.svg?style=flat-square
+[license-url]: https://github.com/Clevermis/Folding_flower/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/Clevermis
 
 
